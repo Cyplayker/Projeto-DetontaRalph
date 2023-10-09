@@ -20,4 +20,5 @@ Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innov
 
 ---
 
-<img src="./src/images/Cap.png>)" alt="foto do jogo" height="60px"/>
+<img src="./src/images/cap.png" />
+
