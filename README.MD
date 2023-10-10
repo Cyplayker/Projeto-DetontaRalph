@@ -20,5 +20,9 @@ Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innov
 
 ---
 
-<img src="./src/images/cap.png" />
+<img src="./src/images/cap.png" /><br><br>
+
+### Adicionei a funcionalidade de perca de vidas quando erra o quadrado
+
+<img src="./src/images/ralph2.png" /><br><br>
 
